@@ -1,0 +1,15 @@
+{
+  "name": "react-fab-dialog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "dependencies": {
+    "material-ui": "1.0.0-beta.41",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
